@@ -17,6 +17,6 @@ function calculateFor($u) {
 	}
 }
 
-echo calculateFor('Abigail');
+var_dump(calculateFor('Abigail'));
 
 ?>
