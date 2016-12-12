@@ -29,11 +29,16 @@ function calculate() {
 }
 ```
 
-De functie retourneert `TRUE` wanneer Abigail inlogt, maar `FALSE` indien Jos probeert in te loggen. 
+De functie retourneert `TRUE` wanneer Abigail inlogt, maar `FALSE` indien Jos probeert in te loggen.
+
 Gelieve de code aan te passen zodat Jos ook kan verder werken. 
 
 Vorige week belde dezelfde klant om te melden dat gebruikersnamen met underscores ook niet correct werken. 
 Kan jij dit voor 16h in productie zetten, anders verliezen we 100.000 EUR!
+
+Om het resultaat te zien, voer `php calculator.php` uit op je command line.
+
+Geen output wil zeggen dat `false` terug gegeven werd.
 
 ### Url.php
 
