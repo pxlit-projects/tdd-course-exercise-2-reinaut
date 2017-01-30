@@ -4,7 +4,9 @@ Oefeningen voor http://wgroeneveld.github.io/tdd-course
 
 ## Technologie
 
-In PHP. Test Harnas met PHPUnit. [Zie ook PHPUnit documentatie](https://phpunit.de/manual/current/en/index.html).
+Bij voorkeur in PHP. Test Harnas met PHPUnit. [Zie ook PHPUnit documentatie](https://phpunit.de/manual/current/en/index.html).
+
+Andere talen zijn ook beschikbaar, zie bijhorende submapjes. 
 
 ## Opdracht beschrijving
 
