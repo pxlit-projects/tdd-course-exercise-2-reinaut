@@ -59,3 +59,5 @@ Graag de code up-to-date brengen.
 Dit kan deze keer gelukkig genoeg met **unit testen** dus schrijf eerst een falende test bij! (urlTests.php)
 
 ``phpunit tests`` om de testen uit te voeren vanuit de root folder.
+
+(Noot: in JS en andere talen is de opdracht analoog)
